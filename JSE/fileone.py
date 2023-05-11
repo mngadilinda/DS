@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
 
-MTN = pd.read_csv('/home/mngadil/Downloads/MTN.JO.csv', index_col='Date', parse_dates=True)
-NDB = pd.read_csv('/home/mngadil/Downloads/NED.JO.csv', index_col='Date', parse_dates=True)
-ZAR = pd.read_csv('/home/mngadil/Downloads/ZAR=X.csv', index_col='Date', parse_dates=True)
-FSR = pd.read_csv('/home/mngadil/Downloads/FSR.JO.csv', index_col='Date', parse_dates=True)
-ABG = pd.read_csv('/home/mngadil/Downloads/ABG.JO.csv', index_col='Date', parse_dates=True)
+MTN = pd.read_csv('Downloads/MTN.JO.csv', index_col='Date', parse_dates=True)
+NDB = pd.read_csv('Downloads/NED.JO.csv', index_col='Date', parse_dates=True)
+ZAR = pd.read_csv('Downloads/ZAR=X.csv', index_col='Date', parse_dates=True)
+FSR = pd.read_csv('Downloads/FSR.JO.csv', index_col='Date', parse_dates=True)
+ABG = pd.read_csv('Downloads/ABG.JO.csv', index_col='Date', parse_dates=True)
 
 # print(MTN.head())
 # plt.plot(MTN['Close'])
