@@ -13,8 +13,9 @@ In 2020 The South African Reserve Bank Decreased the Repo.
 ![Lending Rates](https://github.com/mngadilinda/DS/assets/100442560/8e5bfb39-826f-47c3-b01e-5a56f4c66d12)
 
 On the following plot I am looking at South African Currency The Rand
-And at least for the past 5 years we have never seen the Rand being as weak as it is currently
-![The Rand](https://github.com/mngadilinda/DS/assets/100442560/fc36e79c-cd1f-4dcf-b8d0-cb8057100566)
+And at least for the past 5 years it is for the second time we see the Rand being as weak
 
+
+![The Rand](https://github.com/mngadilinda/DS/assets/100442560/471cedf5-7633-4499-b66a-b1c152c3eabb)
 
 
